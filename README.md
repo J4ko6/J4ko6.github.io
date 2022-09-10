@@ -1,3 +1,4 @@
 # JakobTSutton.github.io
 
-## Portfolio website is currently under construction
+## This site just redirects to my portfolio website.
+The website is currently under construction
